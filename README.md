@@ -6,10 +6,10 @@ Examples of program applications that are currently included <br>
 <br>
 **2.CreateThreadRemote thread injection technology**
 <br>
-**3.CreateFiber injection technology**
+**3.The instance code for CreateFiber injection technology**
 <br>
-**4.MiniDumpWriteDump gets lsass memory**
+**4.Use MiniDumpWriteDump Win32 API gets lsass memory**
 <br>
-**5.Use Token to elevate administrator to system permissions**
+**5.DuplicateToken2 is the first code to attempt process simulations**
 <br>
 **6.AccessToken uses the traversal process name to get the available system permission token, and gets the cmd window for the system permission**
