@@ -10,3 +10,4 @@ Examples of program applications that are currently included：
 - 5.DuplicateToken2 is the first code to attempt process simulations
 - 6.AccessToken uses the traversal process name to get the available system permission token, and gets the cmd window for the system permission
 - 7.EnumerateProcesses enumerates the details of the process that the current permission can open
+- 8.LoaderFromMac uses the method of loading the shellcode in MAC format into memory
