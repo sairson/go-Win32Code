@@ -12,3 +12,4 @@ Examples of program applications that are currently included：
 - 7.EnumerateProcesses enumerates the details of the process that the current permission can open
 - 8.LoaderFromMac uses the method of loading the shellcode in MAC format into memory
 - 9.NtAllocateVirtualMemory ntdll api syscall
+- 10 EarlyBird jnjection technology
